@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="hello">Hello World, ParseStarterProjectActivity!</string>
-    <string name="app_name">ParseStarterProject</string>
     <string name="title_activity_start">StartActivity</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="app_name">Orb</string>
+    <string name="facebookId">564833686982605</string>
+    <string name="parseAppId">5rfCeTwMDxkNjPtXOlDVZoMQb0tL9S2vO5P3xxM1</string>
+    <string name="parseClientKey">yRdoD1aCfBSyyFJ1hPi01hZV9NGI3HUP9EXuPuxG</string>
 </resources>
